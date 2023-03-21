@@ -1,5 +1,5 @@
 #game div {
-  border: 1px solid black;
+  border: 3px solid black;
   width: 15%;
   height: 200px;
   margin: 10px;
@@ -20,11 +20,13 @@
 
 h1 {
   font-size: 5vw;
-  letter-spacing: 0.3em;
+  letter-spacing: 1px;
   font-family: "ROBOTO", sans-serif;
   font-weight: 600;
   color: #4f2131;
   z-index: 1;
+  display: flex;
+  justify-content: flex-start;
 }
 h3 {
   font-size: 3vw;
