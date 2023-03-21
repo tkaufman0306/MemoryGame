@@ -17,3 +17,22 @@
   transform-style: preserve-3d;
  transition: transform .5s;
 }
+
+h1 {
+  font-size: 5vw;
+  letter-spacing: 0.3em;
+  font-family: "ROBOTO", sans-serif;
+  font-weight: 600;
+  color: #4f2131;
+  z-index: 1;
+}
+h3 {
+  font-size: 3vw;
+  font-family: "ROBOTO", sans-serif;
+  font-weight: 600;
+  color: #4f2131;
+  z-index: 1;
+}
+body {
+  background-color: rgb(132, 169, 201);
+}
